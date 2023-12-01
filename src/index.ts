@@ -23,7 +23,7 @@
 
   emplyoee_details = [
     [1, "Isaac"],
-    [2, "Pere"],
+    [2, "Pete"],
     [3, "Michael"],
   ]
 
